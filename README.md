@@ -1,6 +1,6 @@
 # Contoso Retail Data Warehouse (SSIS ETL Project)
 ## Project Overview
-![SSIS ETL Pipeline](assets/Project.png)
+![SSIS ETL Pipeline](Final-Project/assests/Project.png)
 This project is an end-to-end Data Engineering solution built using SQL Server Integration Services (SSIS) and SQL Server Data Warehouse concepts.
 It simulates a real-world enterprise retail analytics system designed to transform raw operational data into a structured, analytics-ready data warehouse.
 The solution is based on a Star Schema dimensional model, optimized for fast querying and business intelligence reporting.
