@@ -1,10 +1,10 @@
-#Contoso Retail Data Warehouse (SSIS ETL Project)
-##Project Overview
+# Contoso Retail Data Warehouse (SSIS ETL Project)
+## Project Overview
 This project is an end-to-end Data Engineering solution built using SQL Server Integration Services (SSIS) and SQL Server Data Warehouse concepts.
 It simulates a real-world enterprise retail analytics system designed to transform raw operational data into a structured, analytics-ready data warehouse.
 The solution is based on a Star Schema dimensional model, optimized for fast querying and business intelligence reporting.
 
-Architecture Overview
+## Architecture Overview
 The system follows a standard ETL pipeline:
 Source Systems → SSIS ETL Pipeline → SQL Server Data Warehouse → Data Marts → BI Reporting Layer
 
@@ -17,13 +17,9 @@ Transaction-level data
 Measures: Sales Amount, Quantity, Revenue, Returns
 
 Dimension Tables
-
 DimProduct
-
 DimCustomer
-
 DimStore
-
 DimCategory
 
 The schema is designed to reduce complexity in queries and improve analytical performance.
