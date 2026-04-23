@@ -6,7 +6,7 @@ It simulates a real-world enterprise retail analytics system designed to transfo
 The solution is based on a Star Schema dimensional model, optimized for fast querying and business intelligence reporting.
 
 ## Architecture Overview
-![SSIS ETL Pipeline](https://github.com/Ebrahim-Elshazly9/contoso-retail-etl-dw/tree/main/Final-Project/assets/Architicture.png)
+![SSIS ETL Pipeline](https://raw.githubusercontent.com/Ebrahim-Elshazly9/contoso-retail-etl-dw/main/Final-Project/assets/Architicture.png)
 The system follows a standard ETL pipeline:
 Source Systems → SSIS ETL Pipeline → SQL Server Data Warehouse → Data Marts → BI Reporting Layer
 
